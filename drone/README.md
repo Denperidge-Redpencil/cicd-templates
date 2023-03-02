@@ -7,6 +7,7 @@ This repository holds a few examples on how to configure drone pipelines
 
 When using these examples, make sure to [test them locally](https://docs.drone.io/quickstart/cli/) using `drone exec` before pushing them to your repository.
 
-For more information see:
+## Reference
+- [drone.io docs](https://docs.drone.io/)
 - [drone.io pipeline overview](https://docs.drone.io/pipeline/overview/)
 - [drone.io quickstart guide](https://docs.drone.io/quickstart/docker/)
