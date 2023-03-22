@@ -5,7 +5,7 @@ A repository for ready-to-use, but easily adaptable, quickstarts for CI/CD.
 Structure/navigation:
 - On [Woodpecker](woodpecker/) (recommended)...
     - ... using [Ember](woodpecker/ember/), I want to...
-        - ... [test](woodpecker/ember/test.woodpecker.yml)
+        - ... [run tests](woodpecker/ember/test.woodpecker.yml)
         - ... [build dry run](woodpecker/ember/build-dry-run.woodpecker.yml)
         - ... [push the latest build](woodpecker/ember/push-latest-build.woodpecker.yml)
         - ... [push the tagged build](woodpecker/ember/push-latest-build.woodpecker.yml) 
@@ -16,7 +16,7 @@ Structure/navigation:
 
 - On [Drone](drone/)...
     - ... using [Ember](drone/ember/), I want to...
-        - ... [test](drone/ember/.drone.yml)
+        - ... [run tests](drone/ember/.drone.yml)
         - ... [build dry run](drone/ember/.drone.yml)
         - ... [push the latest build](drone/ember/.drone.yml)
         - ... [push the tagged build](drone/ember/.drone.yml)

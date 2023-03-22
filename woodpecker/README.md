@@ -2,10 +2,10 @@
 
 ## Getting started (Implementing into your repository)
 Either...
-- ... in your repository root, add `.woodpecker.yml`, where you add everything
-- In your repository root, create a `woodpecker/` folder. Insert any amount of `*.yml` files within.
+- ... in your repository root, create the `.woodpecker.yml` file, where you add everything
+- ... in your repository root, create a `woodpecker/` folder. Insert any amount of `*.yml` files within.
 
-The templates provided in this repository are split up by default for the latter option, but a simple rename to `.woodpecker.yml` is enough to adapt to the first.
+The templates provided in this repository are split up by default, making them fit for the latter option. But a simple rename to `.woodpecker.yml` is enough to adapt to the first workflow.
 
 ## Reference
 - [Woodpecker docs](https://woodpecker-ci.org/docs/intro)
