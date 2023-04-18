@@ -13,6 +13,9 @@ Structure/navigation:
         - ... [build and push](woodpecker/service/build-and-push.woodpecker.yml)
         - ... [build and push (tagged)](woodpecker/service/build-and-push-tag.woodpecker.yml)
         - ... [dry run](woodpecker/service/dry-run.woodpecker.yml)
+    - ... for a [Python](woodpecker/python/) project, I want to ...
+        - ... [publish a package to pypi](woodpecker/python/pypi-publish.yml)
+        - ... [run my project & commit the changes](woodpecker/python/run-and-commit.yml)
 
 - On [Drone](drone/)...
     - ... using [Ember](drone/ember/), I want to...
