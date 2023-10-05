@@ -1,5 +1,5 @@
 # Archival notice
-This repository has been deprecated in favour of the [denperidge-redpencil/ci-quickstart repository on GitHub](https://github.com/Denperidge-Redpencil/ci-quickstart)!
+This repository has been deprecated in favour of the [denperidge-redpencil/ci-quickstart repository on GitHub](https://github.com/Denperidge-Redpencil/ci-quickstart).
 
 # Redpencil.io's CI/CD Templates
 
